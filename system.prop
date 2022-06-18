@@ -1,0 +1,5 @@
+# QC framework value-adds
+ro.vendor.qti.va_aosp.support=1
+
+# Netflix
+ro.netflix.bsp_rev=Q6250-19132-1
