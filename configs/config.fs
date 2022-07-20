@@ -22,9 +22,6 @@ value:2907
 [AID_VENDOR_FASTRPC]
 value:2908
 
-[AID_VENDOR_SPAY]
-value:5279
-
 [system/product/vendor_overlay/*/bin/*]
 mode: 0755
 user: AID_ROOT
