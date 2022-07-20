@@ -9,13 +9,9 @@ vendor.samsung.hardware.health::ISehHealth                                      
 vendor.samsung.hardware.health::IHealth                                             u:object_r:hal_health_hwservice:s0
 vendor.samsung.hardware.light::ISehLight                                            u:object_r:hal_light_hwservice:s0
 vendor.samsung.hardware.media.converter::ISehColorConverterStore                    u:object_r:hal_converter_hwservice:s0
-vendor.samsung.hardware.miscpower::ISehMiscPower                                    u:object_r:hal_miscpower_hwservice:s0
 vendor.samsung.hardware.radio::ISehRadio                                            u:object_r:hal_telephony_hwservice:s0
 vendor.samsung.hardware.radio.bridge::ISehBridge                                    u:object_r:hal_telephony_hwservice:s0
 vendor.samsung.hardware.radio.channel::ISehChannel                                  u:object_r:hal_telephony_hwservice:s0
-vendor.samsung.hardware.security.vaultkeeper::ISehVaultKeeper                       u:object_r:hal_vaultkeeper_server_hwservice:s0
-vendor.samsung.hardware.snap::ISehSnap                                              u:object_r:hal_camera_hwservice:s0
-vendor.samsung.hardware.sysinput::ISehSysInputDev                                   u:object_r:hal_sec_inputdev_hwservice:s0
 vendor.samsung.hardware.thermal::ISehThermal                                        u:object_r:hal_thermal_hwservice:s0
 vendor.samsung.hardware.vibrator::ISehVibrator                                      u:object_r:hal_vibrator_hwservice:s0
 vendor.samsung.hardware.wifi::ISehWifi                                              u:object_r:hal_wifi_hwservice:s0
